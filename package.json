@@ -1,0 +1,23 @@
+{
+  "name": "sampleminiontracker",
+  "version": "1.0.0",
+  "description": "* [License(s)](#license)\r * [Languages](#languages)\r * [Dependencies](#dependencies)\r * [Features](#features)\r * [How to use this application](#HowtoUseThisApplication)\r * [Contributors](#contributors)\r * [Testing](#testing)\r * [Questions](#questions)\r * [Screenshots](#Screenshots)\r * [Links](#links)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jHopkins42/SampleMinionTracker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jHopkins42/SampleMinionTracker/issues"
+  },
+  "homepage": "https://github.com/jHopkins42/SampleMinionTracker#readme",
+  "dependencies": {
+    "inquirer": "^9.2.0",
+    "mysql": "^2.18.1"
+  }
+}
