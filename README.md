@@ -13,7 +13,7 @@
 * [Links](#links)
 
 ### License
-![license](https://img.shields.io/github/license/jhopkins42/SampleMinionTracker)
+(https://img.shields.io/github/license/jhopkins42/SampleMinionTracker)
 
 ### Language
 Javascript
@@ -25,7 +25,7 @@ Inquirer, MySQL, Node, Express, FS
 MySQL based database of employee data,
 
 ### How to Use this Application
-
+Run MySQL on a Node on the terminal
 
 ### Contributors
 N/A
@@ -37,7 +37,7 @@ N/A
 Why do we park in a driveway but drive in a parkway?  What does the color blue taste like?  If you have these or other questions about the project, reach out to me via the repository at github.com/jHopkins42/SampleMinionTracker.
 
 ### Screenshots
-
+Not available at this time
 
 ### Links
 Main Repository: https://github.com/jHopkins42/SampleMinionTracker
